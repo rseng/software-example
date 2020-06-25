@@ -1,0 +1,4 @@
+github.com/singularityhub/sregistry
+github.com/singularityhub/singularity-compose
+github.com/singularityhub/singularity-cli
+github.com/singularityhub/singularity-docker
