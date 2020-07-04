@@ -1,0 +1,30 @@
+[
+    {
+        "uid": "github/singularityhub/sregistry",
+        "url": "https://github.com/singularityhub/sregistry",
+        "rel": "/software-example/repository/github/singularityhub/sregistry",
+        "avatar": "https://avatars1.githubusercontent.com/u/24552884?v=4",
+        "description": "server for storage and management of singularity images"
+    },
+    {
+        "uid": "github/singularityhub/singularity-cli",
+        "url": "https://github.com/singularityhub/singularity-cli",
+        "rel": "/software-example/repository/github/singularityhub/singularity-cli",
+        "avatar": "https://avatars1.githubusercontent.com/u/24552884?v=4",
+        "description": "streamlined singularity python client (spython) for singularity"
+    },
+    {
+        "uid": "github/singularityhub/singularity-compose",
+        "url": "https://github.com/singularityhub/singularity-compose",
+        "rel": "/software-example/repository/github/singularityhub/singularity-compose",
+        "avatar": "https://avatars1.githubusercontent.com/u/24552884?v=4",
+        "description": "orchestration for singularity containers (under development)"
+    },
+    {
+        "uid": "github/singularityhub/singularity-docker",
+        "url": "https://github.com/singularityhub/singularity-docker",
+        "rel": "/software-example/repository/github/singularityhub/singularity-docker",
+        "avatar": "https://avatars1.githubusercontent.com/u/24552884?v=4",
+        "description": "docker base images to provide release versions of Singularity"
+    }
+]
