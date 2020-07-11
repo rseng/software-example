@@ -45,17 +45,13 @@
     <thead>
       <tr>
         <th :class="{ sorted: sort === 'id' }" @click="sortBy('id')">
-          Id
-        </th>
-        <th :class="{ sorted: sort === 'name' }" @click="sortBy('name')">
-          Name
+          Repository
         </th>
       </tr>
     </thead>
     <tbody>
       <tr v-for="row in sortedRows">
-        <td>{{ row.id }}</td>
-        <td>{{ row.name }}</td>
+        <td style="display:none">{{ row.id }}</td>
         <td data-id="{{ row.id }}">
           <div class='btn-group btn-group-xs'>
             <button v-on:click="viewRow" class="btn btn-default" title="View">
@@ -67,7 +63,7 @@
             <button v-on:click="annotateTaxonomyRow" class="btn btn-default btn-sm" title="Annotate Taxonomy">
               🦉️
             </button>
-          </div>
+          </div><span v-on:click="viewRow" style="padding-left:10px; cursor:pointer"><strong>{{ row.id }}</strong></span>
         </td>
       </tr>
     </tbody>
