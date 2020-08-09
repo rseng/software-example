@@ -1,5 +1,19 @@
 [
     {
+        "uid": "github/swiftsim/swiftsimio",
+        "url": "https://github.com/SWIFTSIM/swiftsimio",
+        "rel": "/software-example/repository/github/swiftsim/swiftsimio",
+        "avatar": "https://avatars1.githubusercontent.com/u/37541309?v=4",
+        "description": "Python library for reading SWIFT data. Uses unyt and h5py."
+    },
+    {
+        "uid": "github/adbar/htmldate",
+        "url": "https://github.com/adbar/htmldate",
+        "rel": "/software-example/repository/github/adbar/htmldate",
+        "avatar": "https://avatars0.githubusercontent.com/u/2125866?v=4",
+        "description": "Fast and robust date extraction from web pages, from the command-line or within Python"
+    },
+    {
         "uid": "github/singularityhub/sregistry",
         "url": "https://github.com/singularityhub/sregistry",
         "rel": "/software-example/repository/github/singularityhub/sregistry",
