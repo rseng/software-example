@@ -1,4 +1,7 @@
-github.com/singularityhub/sregistry
-github.com/singularityhub/singularity-compose
-github.com/singularityhub/singularity-cli
-github.com/singularityhub/singularity-docker
+github/hpcng/singularity
+github/swiftsim/swiftsimio
+github/adbar/htmldate
+github/singularityhub/sregistry
+github/singularityhub/singularity-cli
+github/singularityhub/singularity-compose
+github/singularityhub/singularity-docker
